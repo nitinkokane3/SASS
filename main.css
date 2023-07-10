@@ -1,0 +1,18 @@
+/*
+ * Implementation of themes
+ */
+h1 {
+  background-color: orange;
+}
+.theme-default h1 {
+  color: #0569b5;
+}
+.theme-second h1 {
+  color: #DDDDDD;
+}
+.theme-default h1:hover {
+  background-color: #cccccc;
+}
+.theme-second h1:hover {
+  background-color: #AAAAAA;
+}/*# sourceMappingURL=main.css.map */
